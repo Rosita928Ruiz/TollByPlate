@@ -21,7 +21,7 @@ TollByPlate is an innovative application designed to streamline toll collection 
 ## Author
 - **Name:** Your A/C Name  
 - **Email:** Your A/C Email ID  
-- **Website:** TollByPlate  
+- **Website:** [TollByPlate](https://www.toll-byplate.com)
 
 ## Getting Started
 Follow these steps to set up the project locally:
